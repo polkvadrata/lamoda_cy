@@ -1,0 +1,16 @@
+{
+  "name": "lamoda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run --spec cypress/integration/todomvc-filter.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}

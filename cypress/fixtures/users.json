@@ -1,0 +1,10 @@
+{
+    "registered_user": {
+        "login": "cy@cy.cy",
+        "pass": "cycy1212"
+    },
+    "unregistered":{
+        "login": "ad@ad.ad",
+        "pass": "ad333"
+    }
+  }
