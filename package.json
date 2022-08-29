@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "cypress": "cypress open",
-    "test": "cypress run --spec cypress/integration/todomvc-filter.spec.js"
+    "health": "cypress run --spec cypress/integration/health_check.spec.js" ,
+    "test": "cypress run"
   },
   "keywords": [],
   "author": "",
